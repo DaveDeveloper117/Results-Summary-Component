@@ -1,27 +1,54 @@
-# ResultsSummaryComponent
+# Results Summary Component 🀫
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+Bienvenido a Results Summary Component, un proyecto desarrollado en Angular v15.2.6 que consiste en recrear de la manera más fiel posible un ejemplo de un componente de resultados proporcionado por [Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
 
-## Development server
+## Demo 🚀
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Puedes ver una demostración en vivo del proyecto en [Results Summary Component](https://davedeveloper117.github.io/Results-Summary-Component/).
 
-## Code scaffolding
+## Tecnologías utilizadas ⚡
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+-   Angular v15.2.6
+-   HTML
+-   CSS
 
-## Build
+## Instalación 📥
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Para instalar y ejecutar este proyecto, necesitarás tener instalado [Node.js](https://nodejs.org/es/) y [Angular CLI](https://angular.io/cli) en tu máquina.
 
-## Running unit tests
+1.  Clona el repositorio a tu máquina:
+        
+    ```bash
+    git clone https://github.com/DaveDeveloper117/Results-Summary-Component
+    ``` 
+    
+2.  Navega al directorio del proyecto:
+  
+    ```bash
+    cd Results-Summary-Component
+    ``` 
+    
+3.  Instala las dependencias del proyecto:
+  
+    ```bash
+    npm install
+    ``` 
+    
+4.  Inicia la aplicación en tu navegador:
+       
+    ```bash
+    ng serve --open
+    ``` 
+    
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Licencia 🔑
 
-## Running end-to-end tests
+Este proyecto se distribuye bajo la Licencia MIT. Por favor, lee el archivo [LICENSE](https://github.com/DaveDeveloper117/Results-Summary-Component/blob/master/LICENSE) para más información.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Contacto 📩
 
-## Further help
+Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Frontend Mentor - [@DaveDeveloper117](https://www.frontendmentor.io/profile/DaveDeveloper117)
+
+¡Gracias por visitar mi proyecto! :smiley:
