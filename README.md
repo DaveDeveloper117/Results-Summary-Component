@@ -19,7 +19,7 @@ Para instalar y ejecutar este proyecto, necesitarás tener instalado [Node.js](h
 1.  Clona el repositorio a tu máquina:
         
     ```bash
-    git clone https://github.com/DaveDeveloper117/Results-Summary-Component
+    git clone https://github.com/DaveDeveloper117/Results-Summary-Component.git
     ``` 
     
 2.  Navega al directorio del proyecto:
